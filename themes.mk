@@ -52,6 +52,7 @@ PRODUCT_PACKAGES += \
     FontRosemarySourceOverlay \
     FontSamsungOneSourceOverlay \
     FontSonySketchSourceOverlay \
+    FontHarmonySansOverlay \
     FontSurferSourceOverlay
 
 # Icons
