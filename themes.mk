@@ -89,7 +89,11 @@ PRODUCT_PACKAGES += \
     IconPackRoundedAndroidOverlay \
     IconPackRoundedLauncherOverlay \
     IconPackRoundedSystemUIOverlay \
-    IconPackRoundedThemePickerOverlay
+    IconPackRoundedThemePickerOverlay\
+    IconPackRoundedSystemUIOverlay \
+    IconPackOutlineAndroidOverlay \
+    IconPackOutlineSettingsOverlay \
+    IconPackOutlineSystemUIOverlay
 
 # Icon shapes
 PRODUCT_PACKAGES += \
