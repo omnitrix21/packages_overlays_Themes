@@ -79,7 +79,6 @@ PRODUCT_PACKAGES += \
     IconPackKaiThemePickerOverlay \
     IconPackPUIAndroidOverlay \
     IconPackPUILauncherOverlay \
-    IconPackPUISettingsOverlay \
     IconPackPUISystemUIOverlay \
     IconPackPUIThemePickerOverlay \
     IconPackFilledAndroidOverlay \
@@ -92,7 +91,6 @@ PRODUCT_PACKAGES += \
     IconPackRoundedThemePickerOverlay\
     IconPackRoundedSystemUIOverlay \
     IconPackOutlineAndroidOverlay \
-    IconPackOutlineSettingsOverlay \
     IconPackOutlineSystemUIOverlay
 
 # Icon shapes
