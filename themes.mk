@@ -145,6 +145,13 @@ PRODUCT_PACKAGES += \
 #    HighRounded \
 #    ExtremeRounded
 
+# Themes
+PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay \
+    AndroidVividThemeOverlay \
+    AndroidSnowPaintDropThemeOverlay \
+    AndroidEspressoThemeOverlay
+
 # Switch styles
 #PRODUCT_PACKAGES += \
 #    SwitchAOSP \
