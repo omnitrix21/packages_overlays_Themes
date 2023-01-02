@@ -57,6 +57,28 @@ PRODUCT_PACKAGES += \
     FontOppoSansOverlay \
     FontLinotteOverlay \
 
+# Copy fonts
+LOCAL_PATH := packages/overlays/Themes
+
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/prebuilt/product/etc/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
+    
+# Lockscreen clock fonts 
+PRODUCT_PACKAGES += \
+    ClockFontAdventProOverlay \
+    ClockFontBigNoodleTiltingOverlay \
+    ClockFontCherrySwashOverlay \
+    ClockFontHeadlineOverlay \
+    ClockFontRoadRageOverlay \
+    ClockFontSnowstormOverlay \
+    ClockFontViburOverlay \
+    ClockFontAlienLeagueOverlay \
+    ClockFontBikoOverlay \
+    ClockFontGinoraSansOverlay \
+    ClockFontRivieraOverlay \
+    ClockFontSedgwickAveOverlay \
+    ClockFontUnionOverlay
+
 # Icons
 PRODUCT_PACKAGES += \
     IconPackAcherusAndroidOverlay \
