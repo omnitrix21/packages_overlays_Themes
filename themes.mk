@@ -53,7 +53,8 @@ PRODUCT_PACKAGES += \
     FontSamsungOneSourceOverlay \
     FontSonySketchSourceOverlay \
     FontHarmonySansOverlay \
-    FontSurferSourceOverlay
+    FontSurferSourceOverlay \
+	FontOppoSansOverlay
 
 # Icons
 PRODUCT_PACKAGES += \
