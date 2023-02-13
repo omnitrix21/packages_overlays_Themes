@@ -54,7 +54,8 @@ PRODUCT_PACKAGES += \
     FontSonySketchSourceOverlay \
     FontHarmonySansOverlay \
     FontSurferSourceOverlay \
-	FontOppoSansOverlay
+    FontOppoSansOverlay \
+    FontLinotteOverlay \
 
 # Icons
 PRODUCT_PACKAGES += \
