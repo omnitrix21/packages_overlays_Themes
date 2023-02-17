@@ -142,6 +142,13 @@ PRODUCT_PACKAGES += \
     IconShapeVesselOverlay \
     IconShapeRoundedHexagonOverlay
 
+# QS Panel
+PRODUCT_PACKAGES += \
+    QSRoundedRectangle \
+    QSOutline \
+    QSTwoToneAccent \
+    QSShaded
+
 # Signal / WiFi Icons
 PRODUCT_PACKAGES += \
     AquariumSignalOverlay \
