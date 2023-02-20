@@ -116,12 +116,12 @@ PRODUCT_PACKAGES += \
     AquariumSignalOverlay \
     BarsSignalOverlay \
     BarsWiFiOverlay \
-	DeepSignalOverlay \
-	HuaweiSignalOverlay \
-	IosSignalOverlay \
+    DeepSignalOverlay \
+    HuaweiSignalOverlay \
+    IosSignalOverlay \
     InsideSignalOverlay \
     InsideWiFiOverlay \
-	PillsSignalOverlay \
+    PillsSignalOverlay \
     RoundSignalOverlay \
     RoundWiFiOverlay \
     SneakySignalOverlay \
@@ -130,6 +130,7 @@ PRODUCT_PACKAGES += \
     StrokeWiFiOverlay \
     WavySignalOverlay \
     WavyWiFiOverlay \
+    WeedWiFiOverlay \
     XperiaSignalOverlay \
     XperiaWiFiOverlay \
     ZigZagSignalOverlay \
