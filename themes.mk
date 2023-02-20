@@ -113,10 +113,15 @@ PRODUCT_PACKAGES += \
 
 # Signal / WiFi Icons
 PRODUCT_PACKAGES += \
+    AquariumSignalOverlay \
     BarsSignalOverlay \
     BarsWiFiOverlay \
+	DeepSignalOverlay \
+	HuaweiSignalOverlay \
+	IosSignalOverlay \
     InsideSignalOverlay \
     InsideWiFiOverlay \
+	PillsSignalOverlay \
     RoundSignalOverlay \
     RoundWiFiOverlay \
     SneakySignalOverlay \
