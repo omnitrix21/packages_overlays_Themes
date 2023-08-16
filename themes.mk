@@ -145,6 +145,9 @@ PRODUCT_PACKAGES += \
 #    HighRounded \
 #    ExtremeRounded
 
+# QS UI Style
+PRODUCT_PACKAGES += \
+    A11QSUI
 # Themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay \
