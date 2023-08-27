@@ -77,7 +77,16 @@ PRODUCT_PACKAGES += \
     ClockFontGinoraSansOverlay \
     ClockFontRivieraOverlay \
     ClockFontSedgwickAveOverlay \
-    ClockFontUnionOverlay
+    ClockFontUnionOverlay \
+    ClockFontNewYork-HeavyOverlay \
+    ClockFontNewYork-SemiboldOverlay \
+    ClockFontSFPro-SemiboldOverlay \
+    ClockFontSFPro-SemiboldRailsOverlay \
+    ClockFontSFPro-SemiboldRoundedOverlay \
+    ClockFontSFPro-SemiboldSoftOverlay \
+    ClockFontSFPro-SemiboldStencilOverlay \
+    ClockFontKroppenOutlineOverlay \
+    ClockFontKroppenRoundOverlay
 
 # Icons
 PRODUCT_PACKAGES += \
